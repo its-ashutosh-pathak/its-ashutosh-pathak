@@ -154,7 +154,7 @@ currently:
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:ashutoshpathakab@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashutoshpathakab@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
