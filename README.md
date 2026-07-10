@@ -13,16 +13,16 @@
     </td>
     <td align="center" valign="top" width="60%">
       <!-- TYPING SVG -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neuton&weight=600&size=32&duration=2440&pause=350&color=46A3FF&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=750&height=200&lines=%F0%9F%9B%A0%EF%B8%8F+Building+software+that+scales%2C;%C2%A0%C2%A0%C2%A0adapts+%26+solves;%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Class+of+2029;%E2%98%95+Fueled+by+black+coffee+and+curiosity" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neuton&weight=600&size=27&duration=2440&pause=350&color=46A3FF&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=750&height=200&lines=%F0%9F%9B%A0%EF%B8%8F+Building+software+that+scales%2C;%C2%A0%C2%A0%C2%A0adapts+%26+solves;%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Class+of+2029;%E2%98%95+Fueled+by+black+coffee+and+curiosity" alt="Typing SVG" /></a>
       <br/>
       <!-- GITHUB STREAK -->
-      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=its-ashutosh-pathak&theme=tokyonight&hide_border=true&background=0d1117&stroke=46a3ff&ring=46a3ff&fire=ff6e40&currStreakLabel=46a3ff&sideLabels=46a3ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=its-ashutosh-pathak&theme=tokyonight&hide_border=true&background=0d1117&stroke=46a3ff&ring=46a3ff&fire=ff6e40&currStreakLabel=46a3ff&sideLabels=46a3ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
       <br/><br/>
       <!-- PROFILE VIEWS & SOCIAL BADGES -->
       <nobr>
-      <a href="https://github.com/its-ashutosh-pathak"><img src="https://komarev.com/ghpvc/?username=its-ashutosh-pathak&label=Profile%20Views&color=46a3ff&style=for-the-badge" alt="Profile Views"/></a>
-      <a href="https://github.com/its-ashutosh-pathak?tab=followers"><img src="https://img.shields.io/github/followers/its-ashutosh-pathak?label=Followers&style=for-the-badge&color=46a3ff&labelColor=0d1117" alt="GitHub Followers"/></a>
-      <a href="https://github.com/its-ashutosh-pathak?tab=repositories"><img src="https://img.shields.io/github/stars/its-ashutosh-pathak?label=Stars&style=for-the-badge&color=46a3ff&labelColor=0d1117" alt="GitHub Stars"/></a>
+      <a href="https://github.com/its-ashutosh-pathak"><img height="33" src="https://komarev.com/ghpvc/?username=its-ashutosh-pathak&label=Profile%20Views&color=46a3ff&style=for-the-badge" alt="Profile Views"/></a>
+      <a href="https://github.com/its-ashutosh-pathak?tab=followers"><img height="33" src="https://img.shields.io/github/followers/its-ashutosh-pathak?label=Followers&style=for-the-badge&color=46a3ff&labelColor=0d1117" alt="GitHub Followers"/></a>
+      <a href="https://github.com/its-ashutosh-pathak?tab=repositories"><img height="33" src="https://img.shields.io/github/stars/its-ashutosh-pathak?label=Stars&style=for-the-badge&color=46a3ff&labelColor=0d1117" alt="GitHub Stars"/></a>
       </nobr>
     </td>
   </tr>
